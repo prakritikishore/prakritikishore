@@ -8,8 +8,8 @@ This is my personal repository where I make and break things as I wish just for 
 
 <!-- TODO: Add last video link -->
 
-<!-- 🔭 I’m currently working at Bitwise, :india: -->
-- :computer: Most used line of code `System.out.println("Hello World!")`
+- 🔭 I’m currently working at ![PhonePe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
+- :computer: I like to code but occasionally visit [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/prakritiks/)
 - 📫 How to reach me: prakritikishore@gmail.com.
 - ⚡ Fun fact: I play games and sleep a lot.
 
@@ -17,10 +17,10 @@ This is my personal repository where I make and break things as I wish just for 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-<img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/> <img alt="Spring Boot" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>  <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+<img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/> <img alt="Dropwizard" src="https://img.shields.io/badge/Dropwizard-3670A0.svg?style=for-the-badge&logo=Dropwizard&logoColor=ffdd54"/> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>   
 
 #### Resume
-- :paperclip: [My Resume](https://github.com/prakritikishore/prakritiks/blob/master/files/resume/Prakriti-Kishore-Resume-Backend-Engineer.pdf)
+- :paperclip: [My Resume](https://github.com/prakritikishore/prakritikishore/blob/master/files/resume/Prakriti-Kishore-Resume-Backend-Engineer.pdf)
 - :email: prakritikishore@gmail.com
 
 #### 📊 My Github Stats
