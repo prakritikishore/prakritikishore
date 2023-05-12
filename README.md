@@ -20,7 +20,7 @@ This is my personal repository where I make and break things as I wish just for 
 <img alt="Java" src="https://img.shields.io/badge/java-5382a1.svg?style=for-the-badge&logo=java&logoColor=f89820"/> <img alt="Dropwizard" src="https://img.shields.io/badge/Dropwizard-3670A0.svg?style=for-the-badge&logo=Dropwizard&logoColor=ffdd54"/> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>   
 
 #### Resume
-- :paperclip: [My Resume](https://github.com/prakritikishore/prakritikishore/blob/master/files/resume/Prakriti-Kishore-Backend-Engineer_resume.pdf)
+- :paperclip: [My Resume](https://github.com/prakritikishore/prakritikishore/blob/master/files/resume/Prakriti-Kishore-Sarkar-Backend-Engineer-resume.pdf)
 - :email: prakritikishore@gmail.com
 
 #### 📊 My Github Stats
