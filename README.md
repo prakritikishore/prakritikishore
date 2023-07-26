@@ -9,7 +9,7 @@ This is my personal repository where I make and break things as I wish just for 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at ![PhonePe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)
-- :computer: I like to code but occasionally visit [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/prakritiks/)
+- :computer: I like to code but occasionally visit [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/prakritikishore/)
 - 📫 How to reach me: prakritikishore@gmail.com.
 - ⚡ Fun fact: I play games and sleep a lot.
 
